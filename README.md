@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building my web developing skills, in order to start new web projects from scratch, increase my professional portfolio, and prepare for entry level opportunities.**
 
-- 🌱 Some of the languages that I have been currently working on are **C++, Python, HTML, CSS and Javascript. I have also completed several Bootcamps in the areas of Machine Learning, Cloud Computing Services, UI/UX Design, and Programming. **
+- 🌱 Some of the languages that I have been currently working on are **C++, Python, HTML, CSS and Javascript. I have also completed several Bootcamps in the areas of Machine Learning, Cloud Computing Services, UI/UX Design, and Programming.**
 
 - 👯 I’m looking forward to collaborate on **any design and creative projects, as well Data Analysis, Machine Learning and DevOPS projects or experiences.**
 
