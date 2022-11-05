@@ -1,19 +1,19 @@
 <h1 align="center">Olá! I'm Hayra.</h1>
 <h3 align="center">Computer Science Student at BMCC, NYC.</h3>
 
-- 🔭 I’m currently working on **building my web developing skills, in order to start new web projects from scratch, increase my professional portfolio, and prepare for entry level opportunities.**
+- 🔭 I’m currently working on **building my web developing skills, in order to start new web, data analysis, and software development projects from scratch, increase my professional portfolio, and prepare for entry level opportunities.**
 
-- 🌱 Some of the languages that I have been currently working on are **C++, Python, HTML, CSS and Javascript. I have also completed several Bootcamps in the areas of Machine Learning, Cloud Computing Services, UI/UX Design, and Programming.**
+- 🌱 Some of the languages that I have been currently working on are **C++, Python, HTML, CSS and Javascript. And gladly, I have designed a functional website that won the Fall Code-Ideathon at BMCC. I have also completed several Bootcamps in the areas of Machine Learning, Cloud Computing Services, UI/UX Design, and IT Services and Programming.**
 
-- 👯 I’m looking forward to collaborate on **any design and creative projects, as well Data Analysis, Machine Learning and DevOPS projects or experiences.**
+- 👯 I’m looking forward to collaborate on **any design and creative projects, as well Data Analysis, Machine Learning, DevOPS projects and/or experiences.**
 
-- 👨‍💻 All of my projects are available [https://replit.com/@hayrax](https://replit.com/@hayrax)
+- 👨‍💻 Explore a few other projects at [https://replit.com/@hayrax](https://replit.com/@hayrax) and [https://codepen.io/fabrihayra](https://codepen.io/fabrihayra).
 
-- 📫 You can reach me out at the email: **hayrafabrig@gmail.com**
+- 📫 Or reach out to me on the email: **hayrafabrig@gmail.com**
 
-- 📄 Know about my experiences on my LinkedIn [https://www.linkedin.com/in/hayrafabri/](https://www.linkedin.com/in/hayrafabri/)
+- 📄 Discover about my professional experiences on my LinkedIn [https://www.linkedin.com/in/hayrafabri/](https://www.linkedin.com/in/hayrafabri/)
 
-- ⚡ Fun fact: **I was born and raised in Brazil, and currently living in NJ - USA.**
+- ⚡ Fun fact: **I was born and raised in Brazil, and currently living in New Jersey - USA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
