@@ -1,19 +1,30 @@
-<h1 align="center">Olá! I'm Hayra.</h1>
+<h1 align="center">Hi there! I'm Hayra.</h1>
 <h3 align="center">Computer Science Student at BMCC, NYC.</h3>
 
-- 🔭 I’m currently working on **building my web developing skills, in order to start new web, data analysis, and software development projects from scratch, increase my professional portfolio, and prepare for entry level opportunities.**
+##About me
 
-- 🌱 Some of the languages that I have been currently working on are **C++, Python, HTML, CSS and Javascript. And gladly, I have designed a functional website that won the Fall Code-Ideathon at BMCC. I have also completed several Bootcamps in the areas of Machine Learning, Cloud Computing Services, UI/UX Design, and IT Services and Programming.**
 
-- 👯 I’m looking forward to collaborate on **any design and creative projects, as well Data Analysis, Machine Learning, DevOPS projects and/or experiences.**
+##What I'm Working On
+- 🔭 I'm currently engaged in several exciting projects that are helping me develop and refine my skills in key areas. These include data analysis projects using Python and R, software development projects using GUI frameworks such as PyQt and Tkinter, and web development projects that require both front-end expertise in HTML, CSS, and JavaScript, as well as back-end proficiency in PHP. Through these projects, I'm building a robust professional portfolio that showcases my abilities and my passion for innovation and problem-solving. I'm committed to delivering top-quality results and continually advancing my knowledge and skillset, in order to make meaningful contributions to any team or organization I'm part of.
 
-- 👨‍💻 Explore a few other projects at [https://replit.com/@hayrax](https://replit.com/@hayrax) and [https://codepen.io/fabrihayra](https://codepen.io/fabrihayra).
+##What I'm Working On
+- 🌱  I have a strong foundation in several programming languages, including **Python, C++, HTML, CSS, and JavaScript**. Through personal projects and ongoing learning, I have developed proficiency in these languages and can apply them to a variety of contexts.
 
-- 📫 Or reach out to me on the email: **hayrafabrig@gmail.com**
+Recently, I had the opportunity to showcase my web development skills by winning the Ideathon Code Challenge at BMCC with a functional, responsive website that I designed and developed. This experience demonstrated my ability to manage complex projects and deliver high-quality results on time.
 
-- 📄 Discover about my professional experiences on my LinkedIn [https://www.linkedin.com/in/hayrafabri/](https://www.linkedin.com/in/hayrafabri/)
+Furthermore, I have completed several bootcamps that have deepened my knowledge in key areas such as machine learning, cloud computing services, UI/UX design, and IT services and programming. I am excited to leverage this experience and continue developing my skills in these areas to contribute to innovative and impactful projects.
 
-- ⚡ Fun fact: **I was born and raised in Brazil, and currently living in New Jersey - USA.**
+##How I Can Help
+- 👯  I'm always eager to collaborate on design and creative projects, as well as data analysis, machine learning, and DevOps projects and experiences.
+
+- 👨‍💻 You can explore some of my other projects on Replit [https://replit.com/@hayrax](https://replit.com/@hayrax) and CodePen [https://codepen.io/fabrihayra](https://codepen.io/fabrihayra).
+
+##Get in Touch
+- 📫 Feel free to email me at: **hayrafabrig@gmail.com**
+
+- 📄 You can learn more about my professional experiences on my LinkedIn profile [https://www.linkedin.com/in/hayrafabri/](https://www.linkedin.com/in/hayrafabri/)
+
+- ⚡ Fun fact: ** I love exploring new cultures and cuisines, and I'm always up for a good adventure!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
