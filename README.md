@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student at BMCC, NYC.</h3>
 
 <h3>About me</h3>
-Motivated and passionate tech enthusiast graduating in May 2023, seeking an internship in web development, software development, data analysis, or quality assurance testing. Proficient in Python, C++, HTML, CSS, and JavaScript, and completed bootcamps in areas such as machine learning, cloud computing, and UI/UX design. Ready to leverage skills and experience to tackle new challenges and contribute to impactful projects.
+Motivated and passionate tech enthusiast graduated in May 2023, seeking an internship in web development, software development, data analysis, or quality assurance testing. Proficient in Python, C++, HTML, CSS, and JavaScript, and completed bootcamps in areas such as machine learning, cloud computing, and UI/UX design. Ready to leverage skills and experience to tackle new challenges and contribute to impactful projects.
 
 <h3>What I'm Working On</h3>
 🔭 I'm currently engaged in several exciting projects that are helping me develop and refine my skills in key areas. These include data analysis projects using <b> Python and R, software development projects using GUI frameworks such as PyQt and Tkinter, and web development projects that require both front-end expertise in HTML, CSS, and JavaScript, as well as back-end proficiency in PHP. </p> Through these projects, I'm building a robust professional portfolio that showcases my abilities and my passion for innovation and problem-solving. I'm committed to delivering top-quality results and continually advancing my knowledge and skillset, in order to make meaningful contributions to any team or organization I'm part of.
