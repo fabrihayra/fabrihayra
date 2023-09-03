@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst and Software Developer based in NYC, NY.</h3>
 
 <h3>About me</h3>
-Motivated and passionate Data Science enthusiast, seeking an internship in web development, software development, data analysis, or quality assurance testing. Proficient in Python, C++, HTML, CSS, and JavaScript, and completed bootcamps in areas such as machine learning, cloud computing, and UI/UX design. Ready to leverage skills and experience to tackle new challenges and contribute to impactful projects.
+I'm a Computer Science enthusiast rooted in the world of data science and software development. My journey, driven by a profound passion for technology, has led me to delve deep into various domains, including front-end design and programming. Balancing aesthetics with functionality, I strive to create solutions that are both impactful and user-friendly. As I continue my academic and professional journey, I am actively on the lookout for collaborations and roles where I can bring my unique blend of skills to the table and drive innovation in the tech landscape.
 
 <h3>What I Offer</h3>
 🔥 Technical Proficiency: Command over diverse programming languages and frameworks, backed by a solid educational foundation.
@@ -10,7 +10,7 @@ Motivated and passionate Data Science enthusiast, seeking an internship in web d
 🎨 Front-end Design & Programming: Passionate about delivering intuitive and responsive designs using HTML, CSS, and JavaScript.
 🏆 Recognitions: Proud winner of the Ideathon Code Challenge at BMCC, testament to my dedication and capability in web development.
 
-<h3Current Endeavors</h3>
+<h3>Current Endeavors</h3>
 🚀 Deep-diving into a myriad of projects ranging from data analysis using Python and R, GUI software development with PyQt and Tkinter, to comprehensive web projects employing both front-end and back-end technologies.
 🛠️ Expanding my horizons through bootcamps in machine learning, cloud computing, UI/UX design, and more, ensuring I'm always at the forefront of tech innovation.
 🌱 Member of the Association of Data Scientists, and always making sure to update myself on new tech trends, and participate on the forums and events. 
