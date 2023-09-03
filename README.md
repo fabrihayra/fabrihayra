@@ -1,26 +1,29 @@
 <h1 align="center">Hi there! I'm Hayra.👋</h1>
-<h3 align="center">Computer Science Student at BMCC, NYC.</h3>
+<h3 align="center">Data Analyst and Software Developer based in NYC, NY.</h3>
 
 <h3>About me</h3>
-Motivated and passionate tech enthusiast graduated in May 2023, seeking an internship in web development, software development, data analysis, or quality assurance testing. Proficient in Python, C++, HTML, CSS, and JavaScript, and completed bootcamps in areas such as machine learning, cloud computing, and UI/UX design. Ready to leverage skills and experience to tackle new challenges and contribute to impactful projects.
+Motivated and passionate Data Science enthusiast, seeking an internship in web development, software development, data analysis, or quality assurance testing. Proficient in Python, C++, HTML, CSS, and JavaScript, and completed bootcamps in areas such as machine learning, cloud computing, and UI/UX design. Ready to leverage skills and experience to tackle new challenges and contribute to impactful projects.
 
-<h3>What I'm Working On</h3>
-🔭 I'm currently engaged in several exciting projects that are helping me develop and refine my skills in key areas. These include data analysis projects using <b> Python and R, software development projects using GUI frameworks such as PyQt and Tkinter, and web development projects that require both front-end expertise in HTML, CSS, and JavaScript, as well as back-end proficiency in PHP. </p> Through these projects, I'm building a robust professional portfolio that showcases my abilities and my passion for innovation and problem-solving. I'm committed to delivering top-quality results and continually advancing my knowledge and skillset, in order to make meaningful contributions to any team or organization I'm part of.
+<h3>What I Offer</h3>
+🔥 Technical Proficiency: Command over diverse programming languages and frameworks, backed by a solid educational foundation.
+📊 Data Science Enthusiast: With a knack for data analysis, I harness Python and R to draw meaningful insights and drive impactful decisions.
+🎨 Front-end Design & Programming: Passionate about delivering intuitive and responsive designs using HTML, CSS, and JavaScript.
+🏆 Recognitions: Proud winner of the Ideathon Code Challenge at BMCC, testament to my dedication and capability in web development.
 
-<h3>What I'm Working On</h3>
-🌱  I have a strong foundation in several programming languages, including <b>Python, C++, HTML, CSS, and JavaScript</b>. Through personal projects and ongoing learning, I have developed proficiency in these languages and can apply them to a variety of contexts.
+<h3Current Endeavors</h3>
+🚀 Deep-diving into a myriad of projects ranging from data analysis using Python and R, GUI software development with PyQt and Tkinter, to comprehensive web projects employing both front-end and back-end technologies.
+🛠️ Expanding my horizons through bootcamps in machine learning, cloud computing, UI/UX design, and more, ensuring I'm always at the forefront of tech innovation.
+🌱 Member of the Association of Data Scientists, and always making sure to update myself on new tech trends, and participate on the forums and events. 
 
-Recently, I had the opportunity to showcase my web development skills by winning the Ideathon Code Challenge at BMCC with a functional, responsive website that I designed and developed. This experience demonstrated my ability to manage complex projects and deliver high-quality results on time.
 
-Furthermore, I have completed several bootcamps that have deepened my knowledge in key areas such as machine learning, cloud computing services, UI/UX design, and IT services and programming. I am excited to leverage this experience and continue developing my skills in these areas to contribute to innovative and impactful projects.
-
-<h3>How I Can Help</h3>
-👯  I'm always eager to collaborate on design and creative projects, as well as data analysis, machine learning, and DevOps projects and experiences.
+<h3>Collaborate with Me</h3>
+👯 I'm always open to collaborating on projects, sharing insights, or simply networking. If you're interested in teaming up or have an opportunity that aligns with my skills, feel free to reach out!
 
 - 👨‍💻 You can explore some of my other projects on Replit [https://replit.com/@hayrax](https://replit.com/@hayrax) and CodePen [https://codepen.io/fabrihayra](https://codepen.io/fabrihayra).
 
 <h3>Get in Touch</h3>
 📫 Feel free to email me at: <b> hayrafabrig@gmail.com </b>
+
 
 
 📄 You can learn more about my professional experiences on my LinkedIn profile [https://www.linkedin.com/in/hayrafabri/](https://www.linkedin.com/in/hayrafabri/)
