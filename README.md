@@ -8,7 +8,8 @@ I'm a Computer Science enthusiast rooted in the world of data science and softwa
 <br>🔥 Technical Proficiency: Command over diverse programming languages and frameworks, backed by a solid educational foundation.</br>
 <br>📊 Data Science Enthusiast: With a knack for data analysis, I harness Python and R to draw meaningful insights and drive impactful decisions.</br>
 <br>🎨 Front-end Design & Programming: Passionate about delivering intuitive and responsive designs using HTML, CSS, and JavaScript.</br>
-<br>🏆 Recognitions: Proud winner of the Ideathon Code Challenge at BMCC, testament to my dedication and capability in web development.</br>
+
+<br> 🏆 Recognitions: Proud winner of the Ideathon Code Challenge at BMCC, testament to my dedication and capability in web development.</br>
 
 <h3>Current Endeavors</h3>
 <br>🚀 Deep-diving into a myriad of projects ranging from data analysis using Python and R, GUI software development with PyQt and Tkinter, to comprehensive web projects employing both front-end and back-end technologies.</br>
