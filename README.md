@@ -2,9 +2,10 @@
 <h3 align="center">Data Analyst based in NYC. </h3>
 
 <h3>About me</h3>
-I’m a Computer Science and Data Science enthusiast with a strong focus on supply chain optimization, logistics, and data analytics. My journey is driven by a passion for leveraging technology to solve real-world problems, particularly in streamlining operations, improving efficiency, and enabling data-driven decision-making.
-With expertise in Python, SQL, Tableau, and machine learning, I’ve worked on projects ranging from demand forecasting and inventory optimization to route optimization and predictive analytics. I thrive on transforming raw data into actionable insights and building tools that empower businesses to make smarter, faster decisions.
-As I continue to grow in my career, I’m actively seeking opportunities to apply my skills in supply chain analytics, logistics optimization, and data-driven process improvement. Let’s connect and explore how we can drive innovation and efficiency in the tech and logistics landscape!
+I’m a Computer Science and Data Science enthusiast with a strong focus on supply chain optimization, logistics, and data analytics.
+<p>My journey is driven by a passion for leveraging technology to solve real-world problems, particularly in streamlining operations, improving efficiency, and enabling data-driven decision-making.</p>
+<p>With expertise in Python, SQL, Tableau, and machine learning, I’ve worked on projects ranging from demand forecasting and inventory optimization to route optimization and predictive analytics. I thrive on transforming raw data into actionable insights and building tools that empower businesses to make smarter, faster decisions.</p>
+<p>As I continue to grow in my career, I’m actively seeking opportunities to apply my skills in supply chain analytics, logistics optimization, and data-driven process improvement. Let’s connect and explore how we can drive innovation and efficiency in the tech and logistics landscape!</p>
 
 <h3>What I Offer</h3>
 <br>🔥 Technical Proficiency: Command over diverse programming languages and frameworks, backed by a solid educational foundation.</br>
